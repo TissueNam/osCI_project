@@ -1,0 +1,9 @@
+
+Training WGAN-GP
+Collected 59.214 sec ending 10:36:12 AM, Wed Sep 08 2021
+Collected       95 points (1.60/sec)
+                            Name     Last 1000         Last 10
+           Basic Classifier Loss:        6.0823        3.7222 ▆▅▁▁▃▁▂▇▂▃▂▁▂▂▁▂
+Predictions:
+             Classifier Accuracy:	82.63% (157.0/190)
+

@@ -1,0 +1,25 @@
+
+{
+  "batch_size": 64,
+  "beta1": 0.5,
+  "cf_distance_weight": 1,
+  "cf_gan_scale": 4,
+  "cf_max_iters": 100,
+  "cf_speed": 0.1,
+  "channels_img ": 3,
+  "dataset": "/home/kcm/data/cifar10-split0b.dataset",
+  "comparison_dataset": "/home/kcm/data/cifar100-toCIFAR10-u0.dataset",
+  "hypothesis": "Example run on cifar10",
+  "delete_background": false,
+  "discriminator_weight": 0.01,
+  "discriminator_iter": 5,
+  "generator_weight": 0.01,
+  "image_size": 32,
+  "latent_size": 64,
+  "random_horizontal_flip": false,
+  "reconstruction_weight": 1.0,
+  "weight_decay": 0.0,
+  "features_d": 16,
+  "features_g": 16,
+  "number_of_images": 10
+}

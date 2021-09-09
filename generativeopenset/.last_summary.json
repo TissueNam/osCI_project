@@ -1,0 +1,6 @@
+{
+  "Discriminator Real": 879.1549072265625,
+  "Discriminator Fake": -633.9512329101562,
+  "Gradient Penalty": 618.637939453125,
+  "Generator Sampled": 962.1297607421875
+}

@@ -1,0 +1,10 @@
+
+Training WGAN-GP
+Collected 330.910 sec ending 07:23:00 AM, Thu Apr 22 2021
+Collected     2175 points (6.57/sec)
+                            Name     Last 1000         Last 10
+              Discriminator Fake:      -372.6848      -281.9800 ▁▁▁▁▂▂▃▃▅▂▁▇▃▃▅▅
+              Discriminator Real:      954.3759      1005.1035 ▁▁▁▂▃▃▅▅▅▅▆▇▃▃▅▃
+               Generator Sampled:       36.9005      686.2721 ▁▁▁▁▂▂▂▂▁▂▅▆▆▇▅▅
+                Gradient Penalty:      562.9164      556.4388 ▁▁▂▃▃▃▃▂▂▃▇▂▁▂▁▁
+
